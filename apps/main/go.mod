@@ -1,0 +1,3 @@
+module github.com/utr1903/release-test/apps/main
+
+go 1.21.5
